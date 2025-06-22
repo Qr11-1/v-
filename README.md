@@ -1,1 +1,3 @@
-# v-
+# v免签优惠码一件全选和卡密添加商品倒叙显示
+卡密添加商品倒叙显示替换源代码中的CarmisController.php代码
+优惠码新增一键全选商品的功能，替换app/Admin/Controllers/CouponController.php文件代码
