@@ -4,7 +4,7 @@
 # 觉得有用感谢打赏
 
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/552ee6d7-0f5c-4d2c-af74-eb3750f5c59d" width="30%" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/552ee6d7-0f5c-4d2c-af74-eb3750f5c59d" width="35%" style="display:inline-block; margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/d3e9f5a9-1b23-46bc-b97b-60173e5d601c" width="40%" style="display:inline-block;" />
 </div>
 
